@@ -338,6 +338,7 @@
             <exchange prefix="dvchain" name="DV Chain Exchange">
                 <param name="secretKey" />
                 <cryptocurrency>BTC</cryptocurrency>
+                <cryptocurrency></cryptocurrency>
                 <cryptocurrency>ETH</cryptocurrency>
                 <cryptocurrency>LTC</cryptocurrency>
                 <cryptocurrency>BCH</cryptocurrency>

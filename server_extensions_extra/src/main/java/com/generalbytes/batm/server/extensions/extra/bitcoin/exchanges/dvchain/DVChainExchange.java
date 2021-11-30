@@ -71,6 +71,7 @@ public class DVChainExchange extends XChangeExchange {
         cryptoCurrencies.add(CryptoCurrency.LTC.getCode());
         cryptoCurrencies.add(CryptoCurrency.ETH.getCode());
         cryptoCurrencies.add(CryptoCurrency.XMR.getCode());
+        cryptoCurrencies.add(CryptoCurrency.SHIB.getCode());
         return cryptoCurrencies;
     }
 
